@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Report>
+    <ID>1</ID>
+    <Criteria>Food Order</Criteria>
+    <Description>Food Ordering criteria.</Description>
+    <Excellent>4</Excellent>
+    <Good>3</Good>
+    <Average>2</Average>
+    <Dissatisfied>3</Dissatisfied>
+    <Mean>3</Mean>
+    <Overall>36</Overall>
+  </Report>
+  <Report>
+    <ID>2</ID>
+    <Criteria>Waiter Service</Criteria>
+    <Description>Waiter Service criteria.</Description>
+    <Excellent>4</Excellent>
+    <Good>3</Good>
+    <Average>3</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>3.08</Mean>
+    <Overall>37</Overall>
+  </Report>
+  <Report>
+    <ID>3</ID>
+    <Criteria>Food Quality</Criteria>
+    <Description>Food Quality criteria.</Description>
+    <Excellent>2</Excellent>
+    <Good>4</Good>
+    <Average>4</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.67</Mean>
+    <Overall>32</Overall>
+  </Report>
+  <Report>
+    <ID>4</ID>
+    <Criteria>Greeting</Criteria>
+    <Description>Greeting criteria.</Description>
+    <Excellent>3</Excellent>
+    <Good>4</Good>
+    <Average>3</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.92</Mean>
+    <Overall>35</Overall>
+  </Report>
+  <Report>
+    <ID>5</ID>
+    <Criteria>Reception</Criteria>
+    <Description>Reception criteria.</Description>
+    <Excellent>3</Excellent>
+    <Good>3</Good>
+    <Average>4</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.83</Mean>
+    <Overall>34</Overall>
+  </Report>
+  <Report>
+    <ID>6</ID>
+    <Criteria>Hospitality</Criteria>
+    <Description>Hospitality criteria.</Description>
+    <Excellent>3</Excellent>
+    <Good>4</Good>
+    <Average>3</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.92</Mean>
+    <Overall>35</Overall>
+  </Report>
+  <Report>
+    <ID>7</ID>
+    <Criteria>Environment</Criteria>
+    <Description>Environment criteria.</Description>
+    <Excellent>3</Excellent>
+    <Good>3</Good>
+    <Average>4</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.83</Mean>
+    <Overall>34</Overall>
+  </Report>
+  <Report>
+    <ID>8</ID>
+    <Criteria>WiFi</Criteria>
+    <Description>WiFi criteria.</Description>
+    <Excellent>3</Excellent>
+    <Good>2</Good>
+    <Average>5</Average>
+    <Dissatisfied>2</Dissatisfied>
+    <Mean>2.75</Mean>
+    <Overall>33</Overall>
+  </Report>
+  <Report>
+    <ID>9</ID>
+    <Criteria>Parking</Criteria>
+    <Description>Parking criteria.</Description>
+    <Excellent>2</Excellent>
+    <Good>3</Good>
+    <Average>4</Average>
+    <Dissatisfied>3</Dissatisfied>
+    <Mean>2.5</Mean>
+    <Overall>30</Overall>
+  </Report>
+  <Report>
+    <ID>10</ID>
+    <Criteria>Delivery</Criteria>
+    <Description>Delivery criteria.</Description>
+    <Excellent>4</Excellent>
+    <Good>2</Good>
+    <Average>3</Average>
+    <Dissatisfied>3</Dissatisfied>
+    <Mean>2.92</Mean>
+    <Overall>35</Overall>
+  </Report>
+  <Report>
+    <ID>11</ID>
+    <Criteria>Cleanliness</Criteria>
+    <Description>Cleanliness criteria.</Description>
+    <Excellent>2</Excellent>
+    <Good>2</Good>
+    <Average>1</Average>
+    <Dissatisfied>1</Dissatisfied>
+    <Mean>3.17</Mean>
+    <Overall>19</Overall>
+  </Report>
+  <Report>
+    <ID>12</ID>
+    <Criteria>Overall Service </Criteria>
+    <Description>This is the description of overall service criteria.</Description>
+    <Excellent>0</Excellent>
+    <Good>0</Good>
+    <Average>0</Average>
+    <Dissatisfied>0</Dissatisfied>
+    <Mean>0</Mean>
+    <Overall>0</Overall>
+  </Report>
+</NewDataSet>

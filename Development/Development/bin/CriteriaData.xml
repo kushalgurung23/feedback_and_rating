@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Criteria>
+    <ID>1</ID>
+    <Criteria_x0020_Name>Food Order</Criteria_x0020_Name>
+    <Description>Food Ordering criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>2</ID>
+    <Criteria_x0020_Name>Waiter Service</Criteria_x0020_Name>
+    <Description>Waiter Service criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>3</ID>
+    <Criteria_x0020_Name>Food Quality</Criteria_x0020_Name>
+    <Description>Food Quality criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>4</ID>
+    <Criteria_x0020_Name>Greeting</Criteria_x0020_Name>
+    <Description>Greeting criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>5</ID>
+    <Criteria_x0020_Name>Reception</Criteria_x0020_Name>
+    <Description>Reception criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>6</ID>
+    <Criteria_x0020_Name>Hospitality</Criteria_x0020_Name>
+    <Description>Hospitality criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>7</ID>
+    <Criteria_x0020_Name>Environment</Criteria_x0020_Name>
+    <Description>Environment criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>8</ID>
+    <Criteria_x0020_Name>WiFi</Criteria_x0020_Name>
+    <Description>WiFi criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>9</ID>
+    <Criteria_x0020_Name>Parking</Criteria_x0020_Name>
+    <Description>Parking criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>10</ID>
+    <Criteria_x0020_Name>Delivery</Criteria_x0020_Name>
+    <Description>Delivery criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>11</ID>
+    <Criteria_x0020_Name>Cleanliness</Criteria_x0020_Name>
+    <Description>Cleanliness criteria.</Description>
+  </Criteria>
+  <Criteria>
+    <ID>12</ID>
+    <Criteria_x0020_Name>Overall Service </Criteria_x0020_Name>
+    <Description>This is the description of overall service criteria.</Description>
+  </Criteria>
+</NewDataSet>

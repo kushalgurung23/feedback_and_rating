@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Criteria">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+              <xs:element name="Criteria_x0020_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Ratings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+              <xs:element name="Service_x0020_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Customer_x0020_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Contact_x0020_Number" type="xs:string" minOccurs="0" />
+              <xs:element name="Email_x0020_Address" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="Feedback" type="xs:string" minOccurs="0" />
+              <xs:element name="Date" type="xs:string" minOccurs="0" />
+              <xs:element name="Criteria" type="xs:string" minOccurs="0" />
+              <xs:element name="Criteria_x0020_Value" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+              <xs:element name="Criteria" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Excellent" type="xs:string" minOccurs="0" />
+              <xs:element name="Good" type="xs:string" minOccurs="0" />
+              <xs:element name="Average" type="xs:string" minOccurs="0" />
+              <xs:element name="Dissatisfied" type="xs:string" minOccurs="0" />
+              <xs:element name="Mean" type="xs:string" minOccurs="0" />
+              <xs:element name="Overall" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Criteria" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+    <xs:unique name="Ratings_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Ratings" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+    <xs:unique name="Report_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Report" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
